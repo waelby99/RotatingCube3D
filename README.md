@@ -1,6 +1,6 @@
 # 3D Rotating Cube - Vibe Coding 🌀
 
-Welcome to **3D Rotating Cube**, where coding meets creativity! This project is all about the *vibe*—a simple, interactive 3D cube that responds to mouse movement and auto-rotates smoothly. No frameworks, no libraries, just pure HTML, CSS, and JavaScript magic. ✨
+Welcome to **3D Rotating Cube**, where coding meets creativity! This project is all about the *vibe*—a simple, interactive 3D cube that responds to mouse movement and auto-rotates smoothly. No frameworks, no libraries, just pure HTML, CSS, and JavaScript magic. ✨✨✨✨
 
 ## 🌟 Features
 
